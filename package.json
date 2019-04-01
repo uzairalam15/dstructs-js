@@ -1,0 +1,19 @@
+{
+  "name": "dstructs",
+  "version": "1.0.0",
+  "description": "All main data structures implementation in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uzairalam15/dstructs-js.git"
+  },
+  "author": "uzair alam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uzairalam15/dstructs-js/issues"
+  },
+  "homepage": "https://github.com/uzairalam15/dstructs-js#readme"
+}
